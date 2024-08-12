@@ -246,7 +246,7 @@ cd ../frontend-repo
 npm install
 ```
 
-3. Configure as variáveis de ambiente no arquivo `.env.local`:
+3. Configure as variáveis de ambiente no arquivo `.env` do repositorio do front:
 
 ```
 NEXT_PUBLIC_API_BASE="http://localhost:port"
